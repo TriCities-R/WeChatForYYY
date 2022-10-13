@@ -25,8 +25,8 @@ openid = 'oG2jL55tInMiTR9_mK6q6UFcOLks'  #openid就是微信公众平台上的�
 my_wechat=WeChat.WeChat(openid)
 my_wechat.post_data()
 
-openid = 'oG2jL5zT5YI23vvSwPFtHKHeykrA'  #openid就是微信公众平台上的用户id，也就是你要给谁发
-my_wechat=WeChat.WeChat(openid)
-my_wechat.post_data()
+#openid = 'oG2jL5zT5YI23vvSwPFtHKHeykrA'  #openid就是微信公众平台上的用户id，也就是你要给谁发
+#my_wechat=WeChat.WeChat(openid)
+#my_wechat.post_data()
 
 
